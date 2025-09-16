@@ -1,7 +1,7 @@
 # Recipe Finder Hosted Version (InfinityFree)
 
 The project is hosted online at:
-yashpandey.infinityfreeapp.com
+https://yashpandey.infinityfreeapp.com/
 
 A simple web application to search recipes based on ingredients, save favorites, and explore meals. Built with PHP, MySQL, HTML/CSS, and JavaScript.
 
